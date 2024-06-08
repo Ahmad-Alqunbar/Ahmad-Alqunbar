@@ -4,7 +4,6 @@ Full-Stack Developer
 --------------------
 * ✉️  You can contact me at [ahmad.alqunbar97@gmail.com](mailto:ahmad.alqunbar97@gmail.com)
 * 🤝  I'm open to collaborating on things you think they are interesting
-* ⚡  I'm a medical doctor
 
 ### Languages
 
