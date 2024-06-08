@@ -6,10 +6,6 @@ Full-Stack Developer
 * 🤝  I'm open to collaborating on things you think they are interesting
 * ⚡  I'm a medical doctor
 
-<a href="https://www.twitter.com/MaenHouseh" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitter/follow/MaenHouseh?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
-/></a>
-
 ### Languages
 
 <p align="left">
@@ -32,7 +28,7 @@ src="https://img.shields.io/twitter/follow/MaenHouseh?logo=twitter&style=for-the
 
 ### Socials
 
-<p align="left"> <a href="https://www.github.com/maenkhouseh" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/maenkhouseh" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> </p>
+<p align="left"> <a href="https://www.github.com/Ahmad-Alqunbar" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/ahmad-alqunbar" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> </p>
 
 ### Badges
 
