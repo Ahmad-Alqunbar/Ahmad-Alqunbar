@@ -145,13 +145,30 @@ class AhmadAlqunbar extends Developer
 
 ## 📊 GitHub Stats
 
+<!-- ⚠️ لتشغيل Stats و Top Langs بدون ما تنكسر:
+     1. روح على https://github.com/anuraghazra/github-readme-stats
+     2. اعمل Fork
+     3. ادخل على vercel.com وسوي Deploy للفورك
+     4. أضف Environment Variable اسمه PAT_1 وحط فيه GitHub Personal Access Token
+     5. بدّل YOUR_VERCEL_URL بالرابط اللي طلعلك (مثلاً: github-readme-stats-ahmad.vercel.app)
+     
+     حالياً مستخدم الرابط العام اللي ممكن ينكسر بسبب rate limit.
+     لما تعمل Deploy الخاص فيك، غيّر الروابط تحت.
+-->
+
 <div align="center">
 
 <a href="https://github.com/Ahmad-Alqunbar">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Ahmad-Alqunbar&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4FF&icon_color=00D4FF&text_color=C9D1D9&count_private=true&include_all_commits=true" alt="GitHub Stats"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Ahmad-Alqunbar&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00D4FF&icon_color=00D4FF&text_color=C9D1D9&count_private=true&include_all_commits=true&cache_seconds=21600"/>
+    <img height="170" src="https://github-readme-stats.vercel.app/api?username=Ahmad-Alqunbar&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&cache_seconds=21600" alt="GitHub Stats"/>
+  </picture>
 </a>
 <a href="https://github.com/Ahmad-Alqunbar">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmad-Alqunbar&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4FF&text_color=C9D1D9&langs_count=8" alt="Top Languages"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmad-Alqunbar&layout=compact&hide_border=true&bg_color=0D1117&title_color=00D4FF&text_color=C9D1D9&langs_count=8&cache_seconds=21600"/>
+    <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmad-Alqunbar&layout=compact&hide_border=true&langs_count=8&cache_seconds=21600" alt="Top Languages"/>
+  </picture>
 </a>
 
 </div>
@@ -166,7 +183,7 @@ class AhmadAlqunbar extends Developer
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ahmad-Alqunbar&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00D4FF&line=00D4FF&point=FFFFFF&area=true&area_color=00D4FF" alt="Activity Graph"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ahmad-Alqunbar&theme=tokyonight" alt="Contribution Graph"/>
 
 </div>
 
