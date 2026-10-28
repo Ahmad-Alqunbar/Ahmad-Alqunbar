@@ -5,7 +5,8 @@
   <a href="https://ahmad-alqunbar.com/projects">Case studies</a> &nbsp;·&nbsp;
   <a href="https://ahmad-alqunbar.com/blog">Writing</a> &nbsp;·&nbsp;
   <a href="https://www.linkedin.com/in/ahmad-alqunbar">LinkedIn</a> &nbsp;·&nbsp;
-  <a href="mailto:ahmad.alqunbar97@gmail.com">Email</a>
+  <a href="mailto:ahmad.alqunbar97@gmail.com">Email</a> &nbsp;·&nbsp;
+  <a href="https://wa.me/962788811695">WhatsApp</a>
 </p>
 
 ---
